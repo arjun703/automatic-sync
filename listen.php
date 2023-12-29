@@ -4,5 +4,7 @@
 
     var_dump($output);
 
+    var_dump($returnVar);
+
 
  ?>
